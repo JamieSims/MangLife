@@ -66,7 +66,7 @@ module.exports = {
         short_name: `Ryz`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#17C26B`,
+        theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },
