@@ -23,9 +23,9 @@ const Layout = ({ location, title, children }) => {
           >
             {isDarkMode ? (
               <svg
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
+                width="48"
+                height="48"
+                viewBox="0 0 48 48"
                 fill="currentColor"
                 xmlns="http://www.w3.org/2000/svg"
               >
@@ -33,9 +33,9 @@ const Layout = ({ location, title, children }) => {
               </svg>
             ) : (
               <svg
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
+                width="48"
+                height="48"
+                viewBox="0 0 48 48"
                 fill="currentColor"
                 xmlns="http://www.w3.org/2000/svg"
               >
