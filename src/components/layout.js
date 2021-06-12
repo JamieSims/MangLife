@@ -75,6 +75,7 @@ const Layout = ({ location, title, children }) => {
           to={`/`}
         >
           {title}
+          <h1>biotch</h1>
         </Link>
       </h2>
     </>
